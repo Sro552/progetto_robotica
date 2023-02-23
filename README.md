@@ -1,3 +1,5 @@
+This project has been developed by Mattia Rigon, Stefano Bonetto
+
 # Fundamentals of Robotics- Ur5 project
 
 ### Requirements
